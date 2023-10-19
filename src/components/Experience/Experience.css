@@ -1,0 +1,35 @@
+.Experience {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Raleway', sans-serif;
+}
+
+.Experience-title {
+    font-size: 35px;
+    text-align: center;
+    color: rgb(172, 121, 129);
+    border-bottom: 2px solid pink;
+    margin: 3% 0 0 0;
+}
+.Experience-name {
+    color: rgb(147, 88, 98);
+    font-size: 30px;
+    margin: 2% 0 0 0;
+}
+.Experience-year {
+    color: rgb(172, 121, 129);
+    font-size: 20px;
+    margin: 5px 0;
+}
+.Experience-prof{
+    color: rgb(172, 121, 129);
+    font-size: 23px;
+    margin: 5px 0;
+}
+.Experience-desc {
+    font-size: 18px;
+    color: rgb(126, 75, 81);
+    margin: 0;
+}
